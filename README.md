@@ -1,10 +1,17 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=WoodenMaiden.WoodenMaiden&left_color=green&right_color=red)
-
 <div align=left>
-    <a href="https://app.daily.dev/yannou" target="_blank"><img src="https://api.daily.dev/devcards/9514c560bee04750b24d25c75d5f9e9e.png?r=ho1" width="400" alt="Yann's Dev Card"/></a>
+    <a href="https://app.daily.dev/yannou" target="_blank">
+        <img 
+            src="https://api.daily.dev/devcards/9514c560bee04750b24d25c75d5f9e9e.png?r=ho1" 
+            width="300" 
+            alt="Yann's Dev Card"
+            align=right
+        />
+    </a>
 <div>
 
 ## Hi there! 👋
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=WoodenMaiden.WoodenMaiden&left_color=green&right_color=red)
 
 My name is Yann POMIE, I am a 22 years old french student in computer science. I am currently in my last year of engineering school at [Polytech Montpellier](https://www.polytech.umontpellier.fr/) where I am learning DevOps as an apprentice. During my work periods I work at the [IRD (Institut de Recherche pour le Développement)](https://www.ird.fr/) in the [ECOBIO department](https://en.ird.fr/biodiversity) where I work on the development of [AgroLD](http://agrold.southgreen.fr/agrold/) a platform used to query a knowledge graph about plants, their genes, their diseases etc...
 
