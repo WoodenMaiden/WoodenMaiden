@@ -1,7 +1,7 @@
 <div align=left>
     <a href="https://app.daily.dev/yannou" target="_blank">
         <img 
-            src="https://api.daily.dev/devcards/9514c560bee04750b24d25c75d5f9e9e.png?r=ho1" 
+            src="https://github.com/WoodenMaiden/WoodenMaiden/blob/master/devcard.svg" 
             width="300" 
             alt="Yann's Dev Card"
             align=right
