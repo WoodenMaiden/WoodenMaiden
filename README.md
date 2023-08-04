@@ -22,8 +22,9 @@ My name is Yann POMIE, I am a 22 years old french student in computer science. I
 - Music 🎵 (Iron Maiden, A7X, Judas Priest, Kaaris... )
 - Playing Magic the Gathering 🃏
 - Linux (I use Tumbleweed BTW 🦎)
+- Hanging out with friends and colleagues 🍺 
 
-## Languages and Tools (non-echaustive)
+## Languages and Tools (non-exhaustive)
 
 <div align=center>
 
