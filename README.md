@@ -11,9 +11,7 @@
 
 ## Hi there! 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=WoodenMaiden.WoodenMaiden&left_color=green&right_color=red)
-
-My name is Yann POMIE, I am a 22 years old french student in computer science. I am currently in my last year of engineering school at [Polytech Montpellier](https://www.polytech.umontpellier.fr/) where I am learning DevOps as an apprentice. During my work periods I work at the [IRD (Institut de Recherche pour le Développement)](https://www.ird.fr/) in the [ECOBIO department](https://en.ird.fr/biodiversity) where I work on the development of [AgroLD](http://agrold.southgreen.fr/agrold/) a platform used to query a knowledge graph about plants, their genes, their diseases etc...
+My name is Yann POMIE, I am a 23 years old french student in computer science. I am currently in my last year of engineering school at [Polytech Montpellier](https://www.polytech.umontpellier.fr/) where I am learning DevOps as an apprentice. During my work periods I work at the [IRD (Institut de Recherche pour le Développement)](https://www.ird.fr/) in the [ECOBIO department](https://en.ird.fr/biodiversity) where I work on the development of [AgroLD](http://agrold.southgreen.fr/agrold/) a platform used to query a knowledge graph about plants, their genes, their diseases etc...
 
 ## Hobbies/Stuff I like 
 
