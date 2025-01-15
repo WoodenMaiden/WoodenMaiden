@@ -11,15 +11,15 @@
 
 ## Hi there! 👋
 
-My name is Yann POMIE, I am a 23 years old french student in computer science. I am currently in my last year of engineering school at [Polytech Montpellier](https://www.polytech.umontpellier.fr/) where I am learning DevOps as an apprentice. During my work periods I work at the [IRD (Institut de Recherche pour le Développement)](https://www.ird.fr/) in the [ECOBIO department](https://en.ird.fr/biodiversity) where I work on the development of [AgroLD](http://agrold.southgreen.fr/agrold/) a platform used to query a knowledge graph about plants, their genes, their diseases etc...
+My name is Yann POMIE, I am a 23 years old french Engineer, freshly graduated from Polytech Montpellier. I am currently hired as a DevOps Engineer/Backdend Dev at [e-Science Data Factory](https://esciencedatafactory.com/en/), a company specialized in data management, our job is to interconnect your data and make sure it is FAIR (Findable, Accessible, Interoperable and Reusable).
 
 ## Hobbies/Stuff I like 
 
 - Video Games 🎮 (RDR2, The Legend of Zelda, Warframe, XCOM)
 - Boxing 🥊
-- Music 🎵 (Iron Maiden, A7X, Judas Priest, Kaaris... )
-- Playing Magic the Gathering 🃏
-- Linux (I use Tumbleweed BTW 🦎)
+- Music 🎵 (Iron Maiden, A7X, Judas Priest... )
+- Magic the Gathering 🃏
+- Linux (I UsE ArCH BY The wAy) 🐧
 - Hanging out with friends and colleagues 🍺 
 
 ## Languages and Tools (non-exhaustive)
