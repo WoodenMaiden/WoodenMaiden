@@ -11,7 +11,7 @@
 
 ## Hi there! 👋
 
-My name is Yann POMIE, I am a 23 years old french Engineer, freshly graduated from Polytech Montpellier. I am currently hired as a DevOps Engineer/Backdend Dev at [e-Science Data Factory](https://esciencedatafactory.com/en/), a company specialized in data management, our job is to interconnect your data and make sure it is FAIR (Findable, Accessible, Interoperable and Reusable).
+My name is Yann POMIE, I am a 24 years old french Engineer, freshly graduated from Polytech Montpellier. I have a passion for DevOps and especially for automating and building scalable architecture (btw I am looking for a job 😀)
 
 ## Hobbies/Stuff I like 
 
