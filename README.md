@@ -11,7 +11,7 @@
 
 ## Hi there! 👋
 
-My name is Yann POMIE, I am a 24 years old french Engineer, freshly graduated from Polytech Montpellier. I have a passion for DevOps and especially for automating and building scalable architecture (btw I am looking for a job 😀)
+My name is Yann POMIE, I am a 24 years old french Engineer, freshly graduated from Polytech Montpellier. I have a passion for DevOps and especially for automating and building scalable architectures.
 
 ## Hobbies/Stuff I like 
 
@@ -20,6 +20,7 @@ My name is Yann POMIE, I am a 24 years old french Engineer, freshly graduated fr
 - Music 🎵 (Iron Maiden, A7X, Judas Priest... )
 - Magic the Gathering 🃏
 - Linux (I UsE ArCH BY The wAy) 🐧
+- Homelabbing 🏠️
 - Hanging out with friends and colleagues 🍺 
 
 ## Languages and Tools (non-exhaustive)
